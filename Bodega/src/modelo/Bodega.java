@@ -47,7 +47,7 @@ public class Bodega {
 		}else
 		{
 			
-//			System.out.println("NO SE HA PODIDO CREAR EL PAQUETE");
+			//System.out.println("NO SE HA PODIDO CREAR EL PAQUETE");
 		}
 		
 		
